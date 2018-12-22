@@ -8,6 +8,7 @@
 /output-virtualbox/
 /output-virtualbox-iso/
 /output-virtualbox-ovf/
+/softs/
 /*.box
 /packer_cache/
 *.log
